@@ -6,6 +6,8 @@ Just an example package to prove a point ;)
 
 The purpose of this project is to provide starting point to test Sphinx API documentation generation using `autodoc` for a package with native namespaces more than one level deep.
 
+Issue link: https://github.com/sphinx-doc/sphinx/issues/9680
+
 Project setup
 =============
 
